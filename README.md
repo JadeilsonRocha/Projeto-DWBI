@@ -12,11 +12,13 @@ Tratam-se de dados de todas as Ouvidorias das secretarias, administrações regi
 
 Realizado download de todos os arquivos do portal no drive informado acima. E para melhor entendimento das informações, está disponível o dicionário dos dados obtidos no arquivo dicionario-de-dados-abertos-sistema-de-ouvidoria---ouv-df.pdf.
 
-	Para criação e execução de todos os modelos e scripts descritos a seguir foi utilizado o software MySQL Workbench 6.3 numa conexão MySQL em localhost.
+	Para criação e execução de todos os modelos e scripts descritos a seguir foi utilizado
+	o software MySQL Workbench 6.3 numa conexão MySQL em localhost.
 
 	Para realizar acesso, extração, limpeza, transformação, validação e carga dos dados foi utilizada a ferramenta de ETL Pentaho Data Integration 8.1.
 
-	Para fazer consultas e análises OLAP (On-Line Analytical Processing) utilizamos a ferramenta Saiku Analytics, que antes necessita que seja, instalado o Pentaho Bi Server e realizado um cadastro no meteorite.bi (https://licensing.meteorite.bi/login;jsessionid= 82A509BE87787D9275F24EA7810AF748) para obter uma licença de uso do Saiku.
+	Para fazer consultas e análises OLAP (On-Line Analytical Processing) utilizamos a ferramenta Saiku Analytics, que antes necessita que seja, instalado o Pentaho Bi Server e realizado um cadastro no meteorite.bi
+(https://licensing.meteorite.bi/login;jsessionid= 82A509BE87787D9275F24EA7810AF748) para obter uma licença de uso do Saiku.
 
 # Modelos dos Bancos Operacional e DW
 
